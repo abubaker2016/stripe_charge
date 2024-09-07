@@ -7,9 +7,9 @@
 4. Database configuration in           .ENV file
 
 5. Add/Update these variable in .ENV file 
-	STRIPE_KEY="pk_test_51PvD1vRqu43lX7NQ2fOOxZNKC9threq1oRHM8oxMiIPOKX85nrftB0xL0ZTnLBOGsAYTb6gmtzg6GVvkDPeyAejQ00tSkI3ioQ"
-	STRIPE_SECRET="sk_test_51PvD1vRqu43lX7NQGS0EZFPEvgVrXHkpD1Bevjjx5FXcBkIPvxRtEeRmWGtdG9yMoOZVGEXWyO0OQyoYaWRdxNW000JIENoTCM"
-	CASHIER_CURRENCY=usd
+	STRIPE_KEY=
+	STRIPE_SECRET=
+	CASHIER_CURRENCY=
 6. run php artisan migrate
 7. run php artisan db:seed
 
