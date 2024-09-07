@@ -24,5 +24,5 @@
 	YYYY:- you can use greater than current Year.
 	CVV: – 123
 10. Create new user or user existing user
-	username : abu@gmail.com
-	password : Welcome@12
+	username : 
+	password : 
